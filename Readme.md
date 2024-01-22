@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://rajashekarredde.github.io/
+> https://reddyakshaya13.github.io/
 
 :star: Star me on GitHub — it helps!
 
